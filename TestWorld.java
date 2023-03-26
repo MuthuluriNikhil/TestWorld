@@ -1,13 +1,5 @@
-
-
- 
-
-public class TestWorld {
-
-    public static void main(String[] args) {
-
-         Prints Hello, World in the terminal window.
-        System.out.println(PT, World);
-    }
-
+public class TesttWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, PT");
+  }
 }
